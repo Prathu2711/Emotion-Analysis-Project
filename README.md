@@ -11,9 +11,13 @@ Happy, Sad, Angry, Surprise, Fear, Neutral, Disgust
 **Project Highlights**
 
 CNN Architectures for accurate emotion classification
+
 Transfer Learning with MobileNetV2 for improved accuracy and reduced training time
+
 Data Augmentation for better generalization on unseen faces
+
 Separate, modular training pipelines for recognition and emotion detection
+
 Evaluated performance with accuracy metrics and confusion matrices
 
 **Tech Stack**
@@ -35,5 +39,7 @@ FER2013 (Kaggle) — for emotion classification
 **Applications**
 
 AI-driven security systems
+
 Emotion-aware chatbots and assistants
+
 Sentiment analytics for feedback systems
